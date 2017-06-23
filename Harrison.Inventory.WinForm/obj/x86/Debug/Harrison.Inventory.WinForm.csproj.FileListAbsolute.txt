@@ -1,0 +1,32 @@
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\bin\Debug\Harrison.Inventory.WinForm.exe
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\bin\Debug\Harrison.Inventory.WinForm.pdb
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.Properties.Resources.resources
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.csproj.GenerateResource.Cache
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.exe
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.pdb
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.MainForm.resources
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.Vendors.resources
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\bin\Debug\Harrison.Inventory.WinForm.exe.config
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.Tax_Details.resources
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.Purchase_Form.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\bin\Debug\Harrison.Inventory.WinForm.exe.config
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.exe
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.pdb
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\bin\Debug\Harrison.Inventory.WinForm.exe
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\bin\Debug\Harrison.Inventory.WinForm.pdb
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.MainForm.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.Properties.Resources.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.Purchase_Form.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.Tax_Details.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.Vendors.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.csproj.GenerateResource.Cache
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.csprojResolveAssemblyReference.cache
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.clusterMaster.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.bankDetails.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.RPSdetails.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.branchDetails.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.paymentInfo.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.testreportform.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Harrison.Inventory.WinForm.csproj.ResolveComReference.cache
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Debug\Interop.QuartzTypeLib.dll

@@ -1,0 +1,6 @@
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.Data.Model\bin\Debug\Harrison.Inventory.Data.Model.exe
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.Data.Model\bin\Debug\Harrison.Inventory.Data.Model.pdb
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.Data.Model\obj\x86\Debug\Harrison.Inventory.Data.Model.Properties.Resources.resources
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.Data.Model\obj\x86\Debug\Harrison.Inventory.Data.Model.csproj.GenerateResource.Cache
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.Data.Model\obj\x86\Debug\Harrison.Inventory.Data.Model.exe
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.Data.Model\obj\x86\Debug\Harrison.Inventory.Data.Model.pdb

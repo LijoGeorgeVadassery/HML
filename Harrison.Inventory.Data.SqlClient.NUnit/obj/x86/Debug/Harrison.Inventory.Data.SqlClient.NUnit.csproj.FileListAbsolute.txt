@@ -1,0 +1,6 @@
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.Data.SqlClient.NUnit\bin\Debug\Harrison.Inventory.Data.SqlClient.NUnit.exe
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.Data.SqlClient.NUnit\bin\Debug\Harrison.Inventory.Data.SqlClient.NUnit.pdb
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.Data.SqlClient.NUnit\obj\x86\Debug\Harrison.Inventory.Data.SqlClient.NUnit.Properties.Resources.resources
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.Data.SqlClient.NUnit\obj\x86\Debug\Harrison.Inventory.Data.SqlClient.NUnit.csproj.GenerateResource.Cache
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.Data.SqlClient.NUnit\obj\x86\Debug\Harrison.Inventory.Data.SqlClient.NUnit.exe
+C:\projects\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.Data.SqlClient.NUnit\obj\x86\Debug\Harrison.Inventory.Data.SqlClient.NUnit.pdb

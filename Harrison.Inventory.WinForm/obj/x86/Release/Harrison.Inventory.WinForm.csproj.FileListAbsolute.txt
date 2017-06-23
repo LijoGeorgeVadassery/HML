@@ -1,0 +1,14 @@
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\bin\Release\Harrison.Inventory.WinForm.exe.config
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Release\Harrison.Inventory.WinForm.RPS.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Release\Harrison.Inventory.WinForm.MainForm.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Release\Harrison.Inventory.WinForm.Properties.Resources.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Release\Harrison.Inventory.WinForm.Purchase_Form.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Release\Harrison.Inventory.WinForm.Tax_Details.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Release\Harrison.Inventory.WinForm.Vendors.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Release\Harrison.Inventory.WinForm.csproj.GenerateResource.Cache
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\bin\Release\Harrison.Inventory.WinForm.exe
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\bin\Release\Harrison.Inventory.WinForm.pdb
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Release\Harrison.Inventory.WinForm.exe
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Release\Harrison.Inventory.WinForm.pdb
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Release\Harrison.Inventory.WinForm.bankForm.resources
+C:\Users\Joyce Varghese\Documents\HML\STAS\Code\Enterprise Inventory\Harrison.Inventory.WinForm\obj\x86\Release\Harrison.Inventory.WinForm.clusterMaster.resources

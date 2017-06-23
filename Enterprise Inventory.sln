@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{BF0E1FE6-F569-4EA6-B11E-E4C559A3E9AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harrison.Inventory.Data.Model", "Harrison.Inventory.Data.Model\Harrison.Inventory.Data.Model.csproj", "{7D310007-6526-4592-AB78-C0B779CD912F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presenters", "Presenters", "{CD6B3A78-58D9-4905-AA79-574166BDF134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harrison.Inventory.Data.SqlClient", "Harrison.Inventory.Data.SqlClient\Harrison.Inventory.Data.SqlClient.csproj", "{5828CF92-5DB7-42D4-B485-2471B64FF653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harrison.Inventory.Data.SqlClient.NUnit", "Harrison.Inventory.Data.SqlClient.NUnit\Harrison.Inventory.Data.SqlClient.NUnit.csproj", "{1DD400FC-5C5E-4627-B2B0-ADA206B8EF26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Views", "Views", "{C0E40529-22AE-4C21-95AB-09CDEF69333B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harrison.Inventory.WinForm", "Harrison.Inventory.WinForm\Harrison.Inventory.WinForm.csproj", "{42D26040-2AF0-49A1-B91D-D64E58AD0EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D310007-6526-4592-AB78-C0B779CD912F}.Debug|x86.ActiveCfg = Debug|x86
+		{7D310007-6526-4592-AB78-C0B779CD912F}.Debug|x86.Build.0 = Debug|x86
+		{7D310007-6526-4592-AB78-C0B779CD912F}.Release|x86.ActiveCfg = Release|x86
+		{7D310007-6526-4592-AB78-C0B779CD912F}.Release|x86.Build.0 = Release|x86
+		{5828CF92-5DB7-42D4-B485-2471B64FF653}.Debug|x86.ActiveCfg = Debug|x86
+		{5828CF92-5DB7-42D4-B485-2471B64FF653}.Debug|x86.Build.0 = Debug|x86
+		{5828CF92-5DB7-42D4-B485-2471B64FF653}.Release|x86.ActiveCfg = Release|x86
+		{5828CF92-5DB7-42D4-B485-2471B64FF653}.Release|x86.Build.0 = Release|x86
+		{1DD400FC-5C5E-4627-B2B0-ADA206B8EF26}.Debug|x86.ActiveCfg = Debug|x86
+		{1DD400FC-5C5E-4627-B2B0-ADA206B8EF26}.Debug|x86.Build.0 = Debug|x86
+		{1DD400FC-5C5E-4627-B2B0-ADA206B8EF26}.Release|x86.ActiveCfg = Release|x86
+		{1DD400FC-5C5E-4627-B2B0-ADA206B8EF26}.Release|x86.Build.0 = Release|x86
+		{42D26040-2AF0-49A1-B91D-D64E58AD0EDE}.Debug|x86.ActiveCfg = Debug|x86
+		{42D26040-2AF0-49A1-B91D-D64E58AD0EDE}.Debug|x86.Build.0 = Debug|x86
+		{42D26040-2AF0-49A1-B91D-D64E58AD0EDE}.Release|x86.ActiveCfg = Release|x86
+		{42D26040-2AF0-49A1-B91D-D64E58AD0EDE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7D310007-6526-4592-AB78-C0B779CD912F} = {BF0E1FE6-F569-4EA6-B11E-E4C559A3E9AE}
+		{5828CF92-5DB7-42D4-B485-2471B64FF653} = {BF0E1FE6-F569-4EA6-B11E-E4C559A3E9AE}
+		{1DD400FC-5C5E-4627-B2B0-ADA206B8EF26} = {BF0E1FE6-F569-4EA6-B11E-E4C559A3E9AE}
+		{42D26040-2AF0-49A1-B91D-D64E58AD0EDE} = {C0E40529-22AE-4C21-95AB-09CDEF69333B}
+	EndGlobalSection
+EndGlobal
